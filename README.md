@@ -59,7 +59,7 @@ Pull requests are welcome with the condition that the resource should be free!
 ## Level 2 - Tooling
 
 - [x] Tmux <https://tryhackme.com/room/rptmux>
-~~[ ] Nmap <https://tryhackme.com/room/rpnmap>~~
+ ~~[ ] Nmap <https://tryhackme.com/room/rpnmap>~~
 - [ ] Web Scanning <https://tryhackme.com/room/rpwebscanning>
 - [ ] Sublist3r <https://tryhackme.com/room/rpsublist3r>
 - [ ] Metasploit <https://tryhackme.com/room/rpmetasploit>
