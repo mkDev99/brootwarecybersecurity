@@ -61,7 +61,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [x] Tmux <https://tryhackme.com/room/rptmux> <br>
  ~~[ ] Nmap <https://tryhackme.com/room/rpnmap>~~
 - [x] Web Scanning <https://tryhackme.com/room/rpwebscanning>
-- [ ] Sublist3r <https://tryhackme.com/room/rpsublist3r>
+- [x] Sublist3r <https://tryhackme.com/room/rpsublist3r>
 - [ ] Metasploit <https://tryhackme.com/room/rpmetasploit>
 - [ ] Hydra <https://tryhackme.com/room/hydra>
 - [ ] Linux Privesc <https://tryhackme.com/room/linuxprivesc>
