@@ -65,7 +65,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Metasploit <https://tryhackme.com/room/rpmetasploit>
 - [x] Hydra <https://tryhackme.com/room/hydra>
 - [ ] Linux Privesc <https://tryhackme.com/room/linuxprivesc>
-- [ ] Web Scanning <https://tryhackme.com/room/rpwebscanning>
+- [x] Web Scanning <https://tryhackme.com/room/rpwebscanning>
 - [ ] Red Team Fundamentals <https://tryhackme.com/room/redteamfundamentals>
 - [ ] Red Team Recon <https://tryhackme.com/room/redteamrecon>
 
